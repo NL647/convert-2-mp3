@@ -4,7 +4,7 @@ Convert article from medium website to a mp3 file
 ### Executing program
 
 * Nodejs 
-* 
+
 ```
 npm install && npm start
 ```
