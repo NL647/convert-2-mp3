@@ -10,7 +10,7 @@ const testFolder = './public/';
 const fs = require('fs');
 const app = express();
 app.set('view engine', 'ejs')
-const port = 3000
+const port = 80
 app.use('/public', express.static(__dirname + '/public'));
 // automatically pick platform
 var urlencodedParser = bodyParser.urlencoded({ extended: false })
