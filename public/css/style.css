@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.css');
+.container>div:nth-child(3)>ul:nth-child(3)>li:nth-child(1) {
+    /* font-size: large; */
+    color: rgb(0, 128, 100);
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    letter-spacing: 2px;
+    font-size: 48px;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 30px;
+    color: aliceblue;
+    background-color: black;
+}
+
+.alist {
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 2px;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 30px;
+    color: aliceblue;
+    background-color: black;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 1px;
+    font-size: 14px;
+    color: #333333;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    height: 100%;
+    /*background: linear-gradient(60deg, rgba(84, 58, 183, 1) 0%, rgba(0, 172, 193, 1) 100%);
+    color: white;*/
+}
+
+.form-group {
+    font-family: 'Poppins', sans-serif;
+    border: 5px outset rgb(207, 206, 206);
+    margin: auto;
+    -webkit-box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+    box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+    width: 40%;
+    text-align: center;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+.article-list {
+    font-family: 'Poppins', sans-serif;
+    margin: auto;
+    -webkit-box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+    box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+    width: 40%;
+    text-align: center;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+li {
+    text-align: center
+}
+
+.btn {
+    color: aliceblue;
+    background-color: black;
+    margin-bottom: 10px;
+}
+
+.gif {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
