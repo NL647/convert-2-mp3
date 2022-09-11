@@ -44,7 +44,7 @@ body {
 
 .form-group {
     font-family: 'Poppins', sans-serif;
-    border: 5px outset rgb(207, 206, 206);
+    /* border: 5px outset rgb(207, 206, 206); */
     margin: auto;
     -webkit-box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
     -moz-box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
