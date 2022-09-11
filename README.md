@@ -8,4 +8,4 @@ Convert article from medium website to a mp3 file
 ```
 npm install && npm start
 ```
-![My Image](Capture.PNG)
+![My Image](public/img/Capture.PNG)
