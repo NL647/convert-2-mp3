@@ -1,5 +1,5 @@
 {
-    "name": "Medium 2 MP3",
+    "name": "Medium2MP3",
     "version": "1.0.0",
     "description": "convert medium article text to a mp3 file.",
     "main": "app.js",
