@@ -17,7 +17,7 @@ var urlencodedParser = bodyParser.urlencoded({ extended: false })
 
 // automatically pick platform
 global.flag = false
-#const say = require('say')
+//const say = require('say')
 const Say = require('say').Say
 const say = new Say('darwin' || 'win32' || 'linux')
 
