@@ -10,7 +10,7 @@ const testFolder = './public/';
 const fs = require('fs');
 const app = express();
 app.set('view engine', 'ejs')
-var port = process.env.PORT || 8080
+var PORT = process.env.PORT || 8080
 app.use('/public', express.static(__dirname + '/public'));
 // automatically pick platform
 var urlencodedParser = bodyParser.urlencoded({ extended: false })
@@ -147,6 +147,6 @@ app.get('/', (req, res) => {
 
 // });
 
-app.listen(port, () => {
-    console.log(`App listening at port ${port}`)
+app.listen(PORT, () => {
+    console.log(`App listening at port ${PORT}`)
 })
