@@ -1,5 +1,5 @@
 # Convert-2-mp3
-Convert article from medium website to a mp3 file
+Convert article from medium website to a TTS mp3 file
 
 ### Executing program
 
